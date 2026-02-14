@@ -1,1 +1,2 @@
-// implementación de bubble sort
+// cambio de sentido de ordenamiento
+cambio de sentido de ordenamiento
